@@ -11,6 +11,7 @@
     "./directives/pluggable-test-directive.js"
   ],
   "moduleType": [],
+  "ignore":[],
   "keywords": [
     "modules"
   ],
