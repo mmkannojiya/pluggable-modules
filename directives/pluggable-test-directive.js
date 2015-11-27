@@ -1,4 +1,5 @@
 'use strict';
+(function (angular) {
 angular.module('pluggable.testmodule')
   .directive('pluggableTestModule', function () {
     return {
@@ -10,3 +11,4 @@ angular.module('pluggable.testmodule')
 	  }
     };
   });
+ })(window.angular);
