@@ -1,0 +1,20 @@
+{
+  "name": "pluggable",
+  "version": "0.0.1",
+  "authors": [
+    "madanmohankannojiya@gmail.com"
+  ],
+  "description": "Bower component for pluggable module",
+  "main": [
+    "./pluggable-test-config.js",
+    "./controllers/pluggable-test-controller.js",
+    "./directives/pluggable-test-directive.js"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "modules"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mmkannojiya/pluggable-modules",
+  "private": true
+}
