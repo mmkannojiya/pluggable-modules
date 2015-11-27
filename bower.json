@@ -17,5 +17,5 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/mmkannojiya/pluggable-modules",
-  "private": true
+  "private": false
 }
